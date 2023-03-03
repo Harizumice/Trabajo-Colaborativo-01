@@ -1,0 +1,29 @@
+h1, table, button{
+    font-family: 'Lobster', cursive;
+    color:white;
+    text-align: center;
+    justify-content: center;
+}
+.span-html{
+    display:flex;
+    justify-content: center;
+    color:white;
+    font-family: 'Rampart One', cursive;   
+}
+body{
+    background-image: url(https://a-static.besthdwallpaper.com/digital-art-dark-red-black-backgrounds-wallpaper-3360x1260-82608_91.jpg);
+    backdrop-filter: blur(17px);
+}
+
+table th, button{
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 64px;
+}
+
+table tr{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 39px;
+    -webkit-text-stroke: 0.3px rgb(48, 48, 48);
+}
